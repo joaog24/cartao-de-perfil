@@ -1,0 +1,83 @@
+*{
+    margin: 0 auto;
+    max-width: 1440px;
+    box-sizing: border-box;
+    font-family: 'Satisfy', cursive;
+}
+body{
+    background-color: #1BA0AD;
+}
+
+
+
+.h126{
+    color: rgba(213, 202, 188, 0.98);
+    font-weight: 400;
+}
+div{
+        margin-top: 8%;
+        padding: 100px;
+        text-align: center;
+        background-color: white;
+        max-width: 500px;
+        height: 550px;
+        border-radius: 15px;
+}
+
+.cardfundo{
+    max-width: 800px;
+    width: 500px;
+    height: 200px;
+    margin-left: 470px;
+    margin-bottom: -50px;
+    border-top-left-radius:15px;
+    border-top-right-radius: 15px;
+    float: left;
+    
+
+    
+}
+
+.fotoperfil{
+    border-radius: 100px;
+    width: 150px;
+    border: solid 6px white;
+}
+li{
+    padding: 10px;
+    list-style: none;
+}
+h1{
+    text-align: center;
+    flex-direction: row;
+}
+span{
+    max-height: 5px;
+    margin-left: 20px;
+}
+p{
+    line-height: 60px;
+    font-size: 25px;
+}
+
+ul{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.prime{
+    gap: 60px;
+    font-size: 40px;
+    line-height: 100px;
+    margin-left: -70px;
+}
+
+.second{
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: -80px;
+    color: rgba(161, 152, 140, 0.98);
+    gap: 75px;
+    
+}
